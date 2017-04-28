@@ -1,8 +1,7 @@
-Validate a jpg file(header)
+jpg checker
 
-* 상용 툴 사용이 아닌 직접 구현을 통해 JPEG 이미지 파일 (헤더만) 검증 관련 내용입니다.
+* 상용 툴 사용이 아닌 직접 구현을 통해 jpg structure 검증 관련 내용입니다.
 * **JFIF Segment 검증 외 Encoding/Decoding 관련 검증 구현은 지양하였습니다.**  
-(물어보셔도 모릅니다. 알고 계신 분의 연락 기다립니다.)
 
 ***
 
